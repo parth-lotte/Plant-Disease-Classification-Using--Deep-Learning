@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>MY FLASK APP</title>
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+<!--  -->
+
+{% block body %}
+
+
+<h2>Results : </h2>
+<img src="{{ imgurl }}" alt="img"  style="width" : 12em; class="center" >
+
+
+<div class="center card p-2" > 
+  <h1>{{ prediction_text }}</h1>
+</div>
+   
+</div>
+
+{% endblock %}
