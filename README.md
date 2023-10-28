@@ -13,10 +13,12 @@ The technology stack encompassed Python for programming, HTML for web developmen
 The Dataset consist of three categories : 
 
 **Powdery**
-![alt text](https://github.com/parth-lotte/Plant-Disease-Classification-Using--Deep-Learning/blob/main/Train/Powdery/802f7439ec1ef0cd.jpg)
+
+![alt text](https://github.com/parth-lotte/Plant-Disease-Classification-Using--Deep-Learning/blob/main/powdery.jpg)
 
 
  **Healthy**
+ 
  ![alt text](https://github.com/parth-lotte/Plant-Disease-Classification-Using--Deep-Learning/blob/main/Train/Healthy/80a4c7f6ad9a55d8.jpg)
    
  **Rust**
@@ -81,3 +83,6 @@ The above project was deployed with the help of **Microsoft Azure** and the foll
 * Numpy
 * Scikit-Learn
 
+## Authors
+
+- [@parth-lotte](https://www.github.com/parth-lotte)
